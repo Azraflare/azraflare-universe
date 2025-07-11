@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="LINK-DA-IMAGEM" alt="Azraflare Universe" width="800"/>
+</p>
 
 # 🔥 AZRAFLARE UNIVERSE
 
