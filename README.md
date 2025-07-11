@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK-DA-IMAGEM" alt="Azraflare Universe" width="800"/>
+  <img src="Leonardo_Phoenix_10_Logo_design_for_a_music_artist_named_AZRAF_1-removebg-preview.png" alt="Azraflare Universe" width="800"/>
 </p>
 
 # 🔥 AZRAFLARE UNIVERSE
